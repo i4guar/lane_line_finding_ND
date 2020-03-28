@@ -1,3 +1,6 @@
+This is the first project as part of the Self Driving Cars Nanodegree by Udacity.
+
+
 # **Finding Lane Lines on the Road** 
 
 **Finding Lane Lines on the Road**

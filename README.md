@@ -1,5 +1,7 @@
 This is the first project as part of the Self Driving Cars Nanodegree by Udacity.
 
+[Link to my jupyter notebook containing my code](./P1.ipynb)
+
 
 # **Finding Lane Lines on the Road** 
 
